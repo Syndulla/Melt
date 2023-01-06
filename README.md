@@ -14,4 +14,15 @@ pip install -r requirements.txt
 ```
 Follow the Insightface [instructions here](https://github.com/deepinsight/insightface/tree/master/examples/in_swapper) to download their pretrained weights.
 
+# Usage
+Just navigate to the root directory and run:
+```
+python melt_gui.py
+```
+
 # Examples
+<div>
+<img width=24% src="./source_images/halle.jpg"/>
+<img width=24% src="./target_videos/halle_source.mp4"/>
+<img width=24% src="./examples/halle_swap.mp4"/>
+</div>
