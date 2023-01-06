@@ -33,7 +33,8 @@ python melt_gui.py
 </div>
 
 # Credits
-
+<!--ts-->
 Massive shoutout and credits for the model itself goes to the team at Insightface. They continue to push boundries and deserve to be praised.
-[Insightface Github](https://github.com/deepinsight/insightface)
-[Insightface Home](https://github.com/deepinsight/insightface](https://insightface.ai/)
+* [Insightface Github](https://github.com/deepinsight/insightface)
+* [Insightface Home](https://github.com/deepinsight/insightface](https://insightface.ai/)
+<!--te-->
