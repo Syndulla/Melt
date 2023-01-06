@@ -31,3 +31,9 @@ python melt_gui.py
 <img width=35% src="./examples/robert_source.webp"/>
 <img width=35% src="./examples/robert_swap.webp"/>
 </div>
+
+# Credits
+
+Massive shoutout and credits for the model itself goes to the team at Insightface. They continue to push boundries and deserve to be praised.
+[Insightface Github](https://github.com/deepinsight/insightface)
+[Insightface Home](https://github.com/deepinsight/insightface](https://insightface.ai/)
