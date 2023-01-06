@@ -12,4 +12,6 @@ git clone https://github.com/Syndulla/Melt.git
 cd  Melt
 pip install -r requirements.txt
 ```
+Follow the Insightface [instructions here] (https://github.com/deepinsight/insightface/tree/master/examples/in_swapper) to download their pretrained weights.
+
 # Examples
