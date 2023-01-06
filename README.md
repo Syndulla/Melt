@@ -23,6 +23,6 @@ python melt_gui.py
 # Examples
 <div>
 <img width=24% src="./source_images/halle.jpg"/>
-<img width=24% src="./examples/halle_source.webp"/>
-<img width=24% src="./examples/halle_swap.webp"/>
+<img width=50% src="./examples/halle_source.webp"/>
+<img width=50% src="./examples/halle_swap.webp"/>
 </div>
