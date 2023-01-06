@@ -7,6 +7,7 @@ Melt is a powerful faceswapping tool that allows users to easily swap the faces 
 Please be advised that by using this tool, you are solely responsible for your actions and any consequences that may result from your usage. The developers of this tool accept no responsibility for any consequences that may arise from the use of this tool. Use at your own risk and comply with all local regulations.
 
 # Installing Requirements
+Python: 3.7.15
 ```
 git clone https://github.com/Syndulla/Melt.git
 cd  Melt
